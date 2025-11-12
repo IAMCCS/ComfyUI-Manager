@@ -35936,7 +35936,7 @@
 		{
             "author": "IAMCCS",
             "title": "IAMCCS_annotate - Free-hand drawing tool for ComfyUI",
-            "id": "iamccs-annotate",
+            "id": "iamccs_annotate",
             "reference": "https://github.com/IAMCCS/IAMCCS_annotate",
             "files": [
                 "https://github.com/IAMCCS/IAMCCS_annotate"
