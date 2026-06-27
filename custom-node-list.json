@@ -35943,6 +35943,18 @@
             ],
             "install_type": "git-clone",
             "description": "A powerful drawing and annotation tool for ComfyUI that lets you add notes, sketches, and annotations directly on your workflow canvas with full layer support."
+         },
+		{
+            "author": "IAMCCS",
+            "title": "IAMCCS_goyAIcanvas-easy",
+            "id": "iamccs_goyAIcanvas-easy",
+            "reference": "https://github.com/IAMCCS/IAMCCS_goyAIcanvas-easy",
+            "files": [
+                "https://github.com/IAMCCS/IAMCCS_goyAIcanvas-easy.git"
+            ],
+            "install_type": "git-clone",
+            "description": "goyAIcanvas EASY is a standalone all-in-one ComfyUI canvas node for text-to-image, image-to-image, draw-to-image, inpaint, outpaint, upscale, gallery import, compare, model selection, LoRA stack, and a clean professional Open Editor UI."
          }
     ]
 }
+
